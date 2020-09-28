@@ -165,4 +165,4 @@ WHERE
   AND country_name ="United States of America"
 GROUP BY date
 
-//Setelah itu export datastudio
+//Setelah itu export datastudio ikuti langkahnya --> "authorize"
